@@ -22,3 +22,5 @@ Assignment Name: Quiz App
 
 #### Result
 ![alt text](https://github.com/kanchanproseth/Quiz/blob/main/screenshot/result.png?raw=true)
+
+#### On Press reset it will reset everything and go back to first fragment
