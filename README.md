@@ -1,6 +1,5 @@
 # Quiz
 
-
 Course: Mobile Device Application CS473
 
 Assignment Name: Quiz App
